@@ -1,0 +1,6 @@
+C:\Users\unkno\source\repos\pPzpz1p1\pPzpz1p1\bin\Debug\pPzpz1p1.exe.config
+C:\Users\unkno\source\repos\pPzpz1p1\pPzpz1p1\bin\Debug\pPzpz1p1.exe
+C:\Users\unkno\source\repos\pPzpz1p1\pPzpz1p1\bin\Debug\pPzpz1p1.pdb
+C:\Users\unkno\source\repos\pPzpz1p1\pPzpz1p1\obj\Debug\pPzpz1p1.csproj.CoreCompileInputs.cache
+C:\Users\unkno\source\repos\pPzpz1p1\pPzpz1p1\obj\Debug\pPzpz1p1.exe
+C:\Users\unkno\source\repos\pPzpz1p1\pPzpz1p1\obj\Debug\pPzpz1p1.pdb
